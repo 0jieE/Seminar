@@ -1,0 +1,10 @@
+Windows (PowerShell):
+irm https://claude.ai/install.ps1 | iex
+
+
+macOS / Linux / WSL:
+curl -fsSL https://claude.ai/install.sh | bash
+
+
+check version
+claude --version and claude doctor
